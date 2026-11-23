@@ -1,0 +1,32 @@
+{
+  "original": "ort-wasm-simd-threaded.jsep.wasm",
+  "size": 21596019,
+  "sha256": "c46655e8a94afc45338d4cb2b840475f88e5012d524509916e505079c00bfa39",
+  "partCount": 4,
+  "parts": [
+    {
+      "index": 1,
+      "name": "ort-wasm-simd-threaded.jsep.wasm.part001",
+      "offset": 0,
+      "size": 5399005
+    },
+    {
+      "index": 2,
+      "name": "ort-wasm-simd-threaded.jsep.wasm.part002",
+      "offset": 5399005,
+      "size": 5399005
+    },
+    {
+      "index": 3,
+      "name": "ort-wasm-simd-threaded.jsep.wasm.part003",
+      "offset": 10798010,
+      "size": 5399005
+    },
+    {
+      "index": 4,
+      "name": "ort-wasm-simd-threaded.jsep.wasm.part004",
+      "offset": 16197015,
+      "size": 5399004
+    }
+  ]
+}
