@@ -1,0 +1,6 @@
+Short description:[Edu Status] [Caller Name] unable to [action] in [System Name] because [The reason]
+
+Description:[Caller Name] is a [Edu Status] having an issue accessing [System Name] and is unable to [action they can't complete], due to [error or cause]. They already tried [what they tried].
+
+Fallback (no system name): [Caller Name] is a [Edu Status] and is having an issue with [the direct issue]. They are unable to [action they can't complete], due to [error or cause]. They already tried [what they tried].
+
