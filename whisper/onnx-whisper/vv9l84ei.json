@@ -1,0 +1,36 @@
+{
+  "originalName": "decoder_model_merged_q4f16.onnx",
+  "originalSize": 68572241,
+  "chunkSize": 17825792,
+  "minChunkMB": 17,
+  "parts": [
+    {
+      "index": 1,
+      "name": "decoder_model_merged_q4f16.onnx.part001",
+      "start": 0,
+      "end": 17825792,
+      "size": 17825792
+    },
+    {
+      "index": 2,
+      "name": "decoder_model_merged_q4f16.onnx.part002",
+      "start": 17825792,
+      "end": 35651584,
+      "size": 17825792
+    },
+    {
+      "index": 3,
+      "name": "decoder_model_merged_q4f16.onnx.part003",
+      "start": 35651584,
+      "end": 53477376,
+      "size": 17825792
+    },
+    {
+      "index": 4,
+      "name": "decoder_model_merged_q4f16.onnx.part004",
+      "start": 53477376,
+      "end": 68572241,
+      "size": 15094865
+    }
+  ]
+}
